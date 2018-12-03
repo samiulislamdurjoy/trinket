@@ -1,3 +1,4 @@
+def new_variable()
 x=input("enter yourstring")
 n=int(input("enter your expected amount"))
 m=str("")
